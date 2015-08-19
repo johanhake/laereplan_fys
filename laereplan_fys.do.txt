@@ -1,0 +1,178 @@
+========= Læreplan i Fysikk 1 =========
+
+Dette avsnittet er hentet fra "`udir`":"http://www.udir.no/kl06/FYS1-01".
+
+# #if FORMAT in ('html', 'sphinx')
+"PDF versjon av dette dokumentet (for printing)": "laereplan_fys.pdf"
+# #endif
+
+======= Formål =======
+
+Menneskene har alltid undret seg over naturen og vært opptatt av å
+forstå den. Gjennom eksperimenter, observasjoner og teoretisk arbeid
+er fysikerne kommet langt i å finne grunnleggende prinsipper og lover
+som beskriver og forutsier fenomener i naturen og i universet.
+
+Programfaget fysikk skal bidra til forståelse av natur, teknologi og
+fenomener i dagliglivet. Det gir grunnlag for å bruke fagkunnskap i
+ulike sammenhenger, fra praktiske situasjoner i hverdagen til
+avgjørelser som påvirker samfunnsliv, natur og miljø. Programfaget
+fysikk gir innføring i fysikkens begreper, symboler og språk, og
+knytter teori og beregninger til observasjoner og praktisk
+laboratoriearbeid. Programfaget skal bidra til å vise fysikkfagets
+bruk av matematikk og hvordan matematikken brukes til å modellere
+virkeligheten. I tillegg skal programfaget gi innsikt i at fysikk er
+en del av kulturarven, og at faget må ses i et historisk perspektiv.
+
+Programfaget skal bidra til å øve opp kritisk holdning til
+undersøkelser og påstander og gi trening i å argumentere for
+løsninger på fysikkfaglige problemstillinger. Slik skal opplæringen
+styrke den enkeltes evne til å skille mellom vitenskapelig basert
+kunnskap og kunnskap som ikke er basert på vitenskapelige
+metoder. Programfaget skal gi forståelse av fysikkfaglige
+problemstillinger og av prosesser som fører til økt innsikt, noe som
+er et viktig grunnlag for flere studier i høyere utdanning og for
+livslang læring. Programfaget fysikk skal på den måten bidra til at
+samfunnet får tilført kvalifisert arbeidskraft, og fremme innovasjon
+og utvikling som kan komme næringsliv og samfunn til gode. Samtidig
+skal opplæringen legge vekt på de allmenndannende sidene ved
+fysikkfaget.
+
+Programfaget skal legge grunnlag for kreativitet, kritisk sans og
+metodeinnsikt i fysikkfaget. For å utvikle ferdigheter og kunnskap er
+det nødvendig å arbeide både praktisk og teoretisk i programfaget.
+
+
+# #if FORMAT in ('latex', 'pdflatex')
+\pagebreak
+# #endif
+
+======= Grunnleggende ferdigheter =======
+Grunnleggende ferdigheter er integrert i kompetansemålene der hvor de bidrar til utvikling av og er en del av fagkompetansen. I fysikk forstås grunnleggende ferdigheter slik:
+
+!bblock 
+_Å kunne uttrykke seg muntlig og skriftlig_ i fysikk innebærer å
+beskrive egne observasjoner og erfaringer fra naturen, eksperimenter,
+ekskursjoner og informasjon i medier. Å formulere spørsmål og
+hypoteser og å bruke fysikkfaglige begreper og uttrykksformer inngår
+i dette. Det betyr å argumentere for egne vurderinger, gi
+tilbakemeldinger og presentere resultater. Det vil si å beherske et
+presist og entydig språk, blant annet å skille mellom dagliglivets
+bruk av begreper og fysikkens bruk av de samme begrepene.
+
+_Å kunne lese i fysikk_ innebærer å trekke ut, tolke og reflektere
+over informasjon i fysikkfaglige tekster, brosjyrer, aviser,
+populærvitenskapelige magasiner og bøker og på Internett. Det betyr
+å forstå bruksanvisninger, tabeller, diagrammer, symboler og
+fagspesifikke tekster. Videre vil det si å forstå innholdet i
+tabeller, grafer, bilder, ordinær tekst og likninger.
+
+_Å kunne regne i fysikk_ innebærer å bruke tall og beregninger til
+å registrere og utarbeide resultater fra egne målinger, og lage
+tabeller og diagrammer med fysikkfaglig innhold. Det betyr å bruke og
+tolke formler og modeller av virkeligheten, og bearbeide og tolke
+ulike typer data. Å kunne regne vil si å bruke metoder fra
+matematikkfaget. I tillegg innebærer det bruk av vektorer,
+parameterframstilling av kurver og differensial- og integralregning.
+
+_Å kunne bruke digitale verktøy_ i fysikk innebærer å utforske,
+måle, registrere, analysere, dokumentere og publisere digitalt. Det
+betyr å anvende animasjoner og bruke Internett til å hente inn
+fysikkfaglig informasjon. Å kunne bruke digitale verktøy i fysikk
+betyr å simulere fenomener og forsøk som det ellers er vanskelig å
+studere.
+!eblock
+
+# #if FORMAT in ('latex', 'pdflatex')
+\pagebreak
+# #endif
+
+======= Kompetansemål FYS 1 =======
+label{section:kompetansemål_it1}
+
+===== Klassisk fysikk =====
+label{section:klassiskfysikk}
+
+Hovedområdet handler om de eldste og mest brukte fysikklovene, og
+hvordan de kommer til uttrykk innen mekanikk, elektrisitetslære og
+termofysikk. Et sentralt prinsipp er bevaring av energi i ulike
+prosesser. Videre dreier det seg om grunnleggende begreper som er
+nødvendige for å arbeide med bølgefenomener.
+
+!bnotice Mål for opplæringen er at eleven skal kunne:
+o identifisere kontaktkrefter og gravitasjonskrefter som virker på legemer, tegne kraftvektorer og bruke Newtons tre lover
+o gjøre rede for energibegrepet og begrepene arbeid og effekt og foreta beregninger og drøfte situasjoner der mekanisk energi er bevart
+o gjøre rede for situasjoner der friksjon og luftmotstand gjør at den mekaniske energien ikke er bevart, og gjøre beregninger i situasjoner med konstant friksjon
+o gjengi og drøfte kvalitativt termofysikkens første og andre lov
+o definere begrepene strøm, spenning og resistans, og bruke prinsippene om bevaring av ladning og energi på enkle og forgreinede likestrømskretser
+o definere og regne med begrepene frekvens, periode, bølgelengde og bølgefart, og forklare kvalitativt bøynings- og interferensfenomener
+!enotice
+
+===== Moderne fysikk =====
+label{section:nettstederogmultimedier}
+
+Hovedområdet handler om byggesteinene i naturen og hvordan de settes
+sammen, fra mikrokosmos til makrokosmos. I tillegg dreier det seg om
+informasjon som kan leses ut av stråling i ulike sammenhenger, og
+hvordan den kan brukes til å lage modeller som kan beskrive verden.
+
+!bnotice Mål for opplæringen er at eleven skal kunne:
+o beskrive Bohrs atommodell og beregne frekvenser og bølgelengder til spektrallinjer i emisjons- og absorpsjonsspektre ut fra den
+o bruke bevaringslover til å beskrive fisjons- og fusjonsprosesser og beregne frigjort energi i slike prosesser
+o gjøre beregninger med Stefan-Boltzmanns lov og Wiens forskyvningslov
+o gjøre rede for hvordan informasjon om stjerner er systematisert i et HR-diagram
+o beskrive stjerners livssykluser og forklare hvordan grunnstoffer blir bygd opp i stjerner
+o beskrive og drøfte standardmodellen for universets utvikling
+!enotice
+
+===== Å beskrive naturen med matematikk ===== 
+
+Hovedområdet handler om hvordan matematikk blir brukt i fysikk,
+spesielt i hovedområdene klassisk fysikk og den unge forskeren. I
+dette hovedområdet blir matematikk brukt til å systematisere
+observasjoner gjennom fysiske lover. Videre dreier det seg om bruk av
+matematikk til å beskrive fenomener og forutsi hvordan et system vil
+oppføre seg i framtiden.
+
+!bnotice Mål for opplæringen er at eleven skal kunne:
+o bruke parameterframstilling til å beskrive rettlinjet bevegelse for en partikkel, og bruke derivasjon til å regne ut fart og akselerasjon når posisjonen er kjent, både med og uten digitale verktøy
+o lage en eller flere matematiske modeller for sammenhenger mellom fysiske størrelser som er funnet eksperimentelt
+o bruke matematiske modeller som kilde for kvalitativ og kvantitativ informasjon, presentere resultater og vurdere gyldighetsområdet for modellene
+!enotice
+
+===== Den unge forskeren =====
+
+Hovedområdet handler om at fysikk er et eksperimentelt fag, der
+trening i å planlegge, gjennomføre og vurdere forsøk er
+viktig. Videre dreier det seg om kunnskap om og trening i å bruke
+måleinstrumenter, dokumentere forsøksoppsett, innhente data og
+presentere måleresultater. Hovedområdet dreier seg også om hvordan
+vitenskapelig kunnskap etableres, og om noen mulige konflikter og
+dilemmaer som kan oppstå i denne prosessen.
+
+!bnotice Mål for opplæringen er at eleven skal kunne:
+o gjøre rede for og drøfte sentrale trekk ved vitenskapelig metode i fysikk
+o gi eksempler på noen alternative forklaringsmodeller som ikke er forenlige med fysikkens forklaringer, og som heller ikke baserer seg på vitenskapelig metodikk
+o gjøre rede for hvordan forskeres holdninger, forventninger og erfaringer kan påvirke forskningen
+o planlegge og gjennomføre egne undersøkelser og foreta relevante forsøk innen de forskjellige hovedområdene i faget
+o samle inn og bearbeide data og presentere og vurdere resultater og konklusjoner av forsøk og undersøkelser, med og uten digitale verktøy
+o bruke simuleringsprogrammer til å vise fenomener og fysiske sammenhenger
+!enotice
+
+===== Fysikk og teknologi ===== 
+
+Hovedområdet handler om fysiske prinsipper som ligger til grunn for
+noen komponenter i moderne teknologi. Videre dreier det seg om viktige
+forutsetninger og begrensninger i teknologien.
+
+!bnotice Mål for opplæringen er at eleven skal kunne:
+o gjøre rede for forskjellen mellom ledere, halvledere og isolatorer ut fra dagens atommodell, og forklare doping av halvleder
+o sammenligne oppbygningen og forklare virkemåten til en diode og en transistor, og gi eksempler på bruken av dem
+o gjøre rede for virkemåten til lysdetektorer i digital fotografering eller digital video
+o gjøre rede for hvordan moderne sensorer karakteriseres, og hvordan sensorenes egenskaper setter begrensninger for målinger
+!enotice
+
+# #if FORMAT in ('latex', 'pdflatex')
+\pagebreak
+# #endif
+
